@@ -1,6 +1,4 @@
-package DSA;
-
-import java.util.Arrays;
+package BST_questions;
 
 public class BST {
     public static void main(String[] args) {
