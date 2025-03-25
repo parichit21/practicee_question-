@@ -54,7 +54,7 @@ public class find_first_last_position {
               }
             }
     }
-        return ans;
+        return ans ; //only for test case
     }
 
 
