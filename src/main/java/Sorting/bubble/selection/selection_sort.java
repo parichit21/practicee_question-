@@ -1,4 +1,4 @@
-package Sorting.bubble;
+package Sorting.bubble.selection;
 
 public class selection_sort {
 
