@@ -1,4 +1,4 @@
-package Sorting.bubble;
+package Sorting.bubble.bubble;
 
 import java.util.Arrays;
 
@@ -29,7 +29,7 @@ public class bubble_sort {
                 }
             }
 
-//of you did not swap for the for a perticular value of i , it means the array is sorted hence stop the program
+//if you did not swap for the for a perticular value of i , it means the array is sorted hence stop the program
         if(!swapped)
         { break;}
         }
