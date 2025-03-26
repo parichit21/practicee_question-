@@ -1,5 +1,7 @@
 package LTquestions_arrays;
+
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 /*Input: nums = [4,3,2,7,8,2,3,1]
   Output: [5,6]
