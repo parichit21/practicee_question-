@@ -1,0 +1,12 @@
+------format--------
+base condition
+body
+recursive method
+
+
+
+Base condition in recursion
+condition where our recursion will stop making new calls
+
+if there is no base condition then your function is keep getting
+call which takes extra memory and at the end it will give stack overflow error
