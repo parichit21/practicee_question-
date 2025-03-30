@@ -1,6 +1,6 @@
 package BST_questions;
 
-public class BST {
+public class binary_Search_without_recursion {
     public static void main(String[] args) {
     int [] arr = {-18,-12,-10,3,0,2,3,4,15,16,18,22,45,89};
     int target = 22;
