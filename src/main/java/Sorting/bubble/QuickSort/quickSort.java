@@ -10,9 +10,12 @@ public class quickSort {
 
     }
     static void sort(int [] nums, int low ,int hi){
+
+//     breaking statement
         if(low>=hi){
             return;
         }
+//        start s , end e
         int s =low;
         int e =hi;
         int m = s+(e-s)/2;
@@ -28,6 +31,7 @@ public class quickSort {
             while (nums[e]>pivot)
             {
                 e--;
+
             }
             if(s<=e)
             {
@@ -37,9 +41,7 @@ public class quickSort {
                 s++;
                 e--;
             }
-
         }
-
 //        now my pivot is at correct index ,please sort
         sort(nums,low,e);
         sort(nums,s,hi);
