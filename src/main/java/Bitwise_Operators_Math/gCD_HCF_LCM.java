@@ -4,8 +4,8 @@ public class gCD_HCF_LCM {
 
 //    HCF formulla --> gcd(rem(b,a),a)
     public static void main(String[] args) {
-//    System.out.println(gcd(4,8));
-        System.out.println(LCM(9,18));
+   System.out.println(gcd(2,16));
+      //  System.out.println(LCM(2,16));
     }
     static int gcd(int a ,int b){
         if (a == 0) {

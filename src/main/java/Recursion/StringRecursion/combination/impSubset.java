@@ -11,7 +11,7 @@ public class impSubset {
         /*when to apply subset problem
         * this patter of taking some element and removing some in str is called subset pattern  */
        //  subseq("",str);
-         int [] arr = {1,2,3};
+         int [] arr = {1,3};
      System.out.println(Linearsubseq(arr));
     }
 
