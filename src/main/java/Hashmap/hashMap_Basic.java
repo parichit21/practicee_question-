@@ -10,7 +10,7 @@ public class hashMap_Basic {
         searchnumber(arr,num);
     }
     static void searchnumber(int []arr,int  num){
-        HashMap<Integer,Integer> map = new HashMap();
+        HashMap<Integer,Integer> map = new HashMap<>();
 
         for(int i =0;i<arr.length;i++)
         {
