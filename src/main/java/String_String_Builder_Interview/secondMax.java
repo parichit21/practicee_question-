@@ -1,6 +1,4 @@
-package String_String_Builder;
-
-import java.util.Arrays;
+package String_String_Builder_Interview;
 
 public class secondMax {
 

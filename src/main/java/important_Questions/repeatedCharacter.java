@@ -12,7 +12,7 @@ public class repeatedCharacter {
 List result =    nonRepeatedCharacter(str);
 
 
-    System.out.println( result.toString());
+    System.out.println( result);
     }
 
     static List nonRepeatedCharacter(String str){

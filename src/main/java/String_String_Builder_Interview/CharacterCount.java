@@ -1,4 +1,4 @@
-package String_String_Builder;
+package String_String_Builder_Interview;
 
 public class CharacterCount {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package String_String_Builder;
+package String_String_Builder_Interview;
 
 import java.util.ArrayList;
 import java.util.List;
